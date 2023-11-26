@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ajaymalik/gitProjects/pBlazor/bLoginEmpty/wwwroot/css/home.css",
+      "PackagePath": "staticwebassets/css/home.css"
+    },
+    {
+      "Id": "/Users/ajaymalik/gitProjects/pBlazor/bLoginEmpty/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.bLoginEmpty.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.bLoginEmpty.props",
+      "PackagePath": "build\\bLoginEmpty.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.bLoginEmpty.props",
+      "PackagePath": "buildMultiTargeting\\bLoginEmpty.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.bLoginEmpty.props",
+      "PackagePath": "buildTransitive\\bLoginEmpty.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
